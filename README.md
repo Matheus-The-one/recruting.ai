@@ -4,7 +4,7 @@
   <h3 align="center">Apply-by-AI</h3>
   <p align="center">
     Looking for candidates that rightly match your job requirements?
-    Let AI handle it for you.
+    Let AI handle it  for you.
     <br/>
     <br/>
     Our users spend around 50% less time screening candidates.
